@@ -1,2 +1,1 @@
-Implementation of Natural Language Processing on restaurant reviews using Gaussian naive bayes \n
-p.s. dataset is uploaded
+Implementing Natural Language Processing on restaurant reviews using Gaussian Naive Bayes. The goal of this project is to analyze and classify restaurant reviews based on their sentiment, such as positive or negative.
